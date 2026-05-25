@@ -13,12 +13,12 @@
 - 🎓 Currently pursuing a bachelors degree in **software engineering**
 - 🤓 Seeking to become a **full-stack developer**
 - 👨‍💻 Has experience in **front-end development,Backend development and mobile app development**
-- 📫 How to reach me 
-<a href="www.linkedin.com/in/shaini-jayakody-6a9197377" target="_blank">
+- 📫 How to reach me:
+<a href="https://www.linkedin.com/in/shaini-jayakody-6a9197377/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="mailto:shainijayakody8@gmail.com" target="_blank">
-    <img alt="E-mail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com" width="80">
+    <img alt="E-mail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com" width="83">
   </a>  
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

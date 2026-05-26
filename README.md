@@ -6,89 +6,214 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&center=true&lines=Undergraduate+IT+Student;Software+Engineer;Mobile+App+Developer;Fullstack+Developer" width="400"/>
 </p>
-
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1>About me</h1>
+<h1 align="center">About me</h1>
 
-<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+<img align="right" width="230px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-- 🎓 Currently pursuing a bachelors degree in **software engineering**
-- 🤓 Seeking to become a **full-stack developer**
-- 👩‍💻 Has experience in **front-end development, backend development and mobile app development**
+- 🎓 Currently pursuing a bachelors degree in **Software Engineering**
+- 🤓 Seeking to become a **Full-Stack Developer**
+- 👩‍💻 Experienced in **Front-End, Back-End and Mobile App Development**
 - 🌐 How to reach me:
 
+<p align="left">
 <a href="https://www.linkedin.com/in/shaini-jayakody-6a9197377/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> &nbsp;
-<a href="mailto:shainijayakody8@gmail.com" target="_blank">
-    <img alt="E-mail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" width="83">
 </a>
+
+<a href="mailto:shainijayakody8@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 
 <br><br>
 
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1> Skills</h1>
+<h1 align="center">Skills</h1>
 
-- **Languages**:
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Working GIF Center -->
+<p align="center">
+  <img width="260px" alt="working" src="Assets/working.gif"/>
+</p>
 
-- **Front-End Development**:
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> &nbsp;
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Languages -->
+<h3 align="center">Languages</h3>
 
-- **Back-End Development**:
-<p align="left"> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/> </a> &nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" width="50" height="50"/>
+</a>
 
-<img align="right" width="280px" alt="working" src="Assets/working.gif"/>
+<a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/>
+</a>
 
-- **Mobile App Development**:
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<a href="https://www.w3schools.com/cs/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" width="50" height="50"/>
+</a>
 
-- **Database**:
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<a href="https://www.java.com" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" width="50" height="50"/>
+</a>
 
-- **DevOps**:
-<p align="left"> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/> </a> &nbsp;
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/>
+</a>
 
-- **Testing**:
-<p align="left"> 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> &nbsp;
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jest.svg" alt="jest" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<a href="https://www.php.net" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" width="50" height="50"/>
+</a>
 
-- **Softwares and Tools**:
-<p align="left">  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> &nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="vscode" width="40" height="40"/> </a> &nbsp;
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="androidstudio" width="40" height="40"/> </a> </p>
+<a href="https://www.python.org" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/>
+</a>
 
-<br>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50"/>
+</a>
+</p>
 
-<img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px">
+<!-- Frontend -->
+<h3 align="center">Front-End Development</h3>
+
+<p align="center">
+<a href="https://getbootstrap.com" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" width="50" height="50"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="50" height="50"/>
+</a>
+</p>
+
+<!-- Backend -->
+<h3 align="center">Back-End Development</h3>
+
+<p align="center">
+<a href="https://expressjs.com" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://spring.io/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" width="50" height="50"/>
+</a>
+</p>
+
+<!-- Mobile -->
+<h3 align="center">Mobile App Development</h3>
+
+<p align="center">
+<a href="https://developer.android.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="50"/>
+</a>
+
+<a href="https://kotlinlang.org" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" width="50" height="50"/>
+</a>
+</p>
+
+<!-- Database -->
+<h3 align="center">Database</h3>
+
+<p align="center">
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" width="50" height="50"/>
+</a>
+</p>
+
+<!-- DevOps -->
+<h3 align="center">DevOps</h3>
+
+<p align="center">
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" width="50" height="50"/>
+</a>
+
+<a href="https://kubernetes.io" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kubernetes.svg" width="50" height="50"/>
+</a>
+</p>
+
+<!-- Testing -->
+<h3 align="center">Testing</h3>
+
+<p align="center">
+<a href="https://www.cypress.io" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="50" height="50"/>
+</a>
+
+<a href="https://jestjs.io" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jest.svg" width="50" height="50"/>
+</a>
+
+<a href="https://www.selenium.dev" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Selenium.svg" width="50" height="50"/>
+</a>
+</p>
+
+<!-- Tools -->
+<h3 align="center">Softwares & Tools</h3>
+
+<p align="center">
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/>
+</a>
+
+<a href="https://postman.com" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" width="50" height="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" width="50" height="50"/>
+</a>
+
+<a href="https://developer.android.com/studio" target="_blank">
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="50" height="50"/>
+</a>
+</p>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Bottom Cute GIF -->
+<p align="center">
+<img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="80px">
+</p>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

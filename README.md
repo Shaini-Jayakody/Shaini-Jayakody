@@ -207,6 +207,22 @@
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="50" height="50"/>
 </a>
 </p>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+<p align="center">
+    <a href="https://github.com/Shaini-Jayakody/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaini-Jayakody&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shajini-Jayakody/Shajini-Jayakody/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -214,6 +230,3 @@
 <p align="center">
 <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="80px">
 </p>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

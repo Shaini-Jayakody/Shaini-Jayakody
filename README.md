@@ -218,15 +218,10 @@
     </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shajini-Jayakody/Shajini-Jayakody/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Bottom Cute GIF -->
 <p align="center">
-<img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="80px">
+ <h1>Thank You!</h1>
 </p>
+<img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="80px">

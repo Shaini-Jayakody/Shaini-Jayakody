@@ -231,8 +231,14 @@
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Shaini-Jayakody&theme=react-dark&hide_border=true&area=true)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Bottom Cute GIF -->
 <p align="center">
- <h1>Thank You!</h1>
+   <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
+ <h1>Thank You!</h1> 
 </p>
+
 <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="80px">

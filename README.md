@@ -26,7 +26,7 @@
 <h1> Skills</h1>
 
 <p align="center">
-
+<img src="Assets/working.gif" width="300"/>
 - **Languages**:
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a> &nbsp;

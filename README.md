@@ -215,7 +215,7 @@
 <h1 align="center" style="margin: 5px 10px;">Github analytics</h1> 
 
 <p align="center">
-<a href="https://github.com/Shaini-Jayakody/github-readme-streak-stats">
+<a href="https://github.com/Shaini-Jayakody">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shaini-Jayakody&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shaini-Jayakody&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -223,7 +223,7 @@
 
         
 <p align="center">
-    <a href="https://github.com/Shaini-Jayakody/github-readme-streak-stats">
+    <a href="https://github.com/Shaini-Jayakody">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shaini Jayakody's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaini-Jayakody&theme=black-ice&hide_border=true&stroke=0000&theme=algolia"/>
     </a>   
 </p>

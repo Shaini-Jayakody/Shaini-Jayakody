@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="Assets/greeting.gif" width="300"/>
-</p>
+
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=58A6FF&size=40&width=750&height=80&repeat=false&lines=Hey,%20I'm%20Shaini%20Jayakody"/>
+</p>
+<p align="center">
+  <img src="Assets/greeting.gif" width="300"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&center=true&lines=Undergraduate+IT+Student;Software+Engineer;Mobile+App+Developer;Fullstack+Developer" width="400"/>
